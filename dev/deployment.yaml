@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: thomd/argocd-app:1.0
+        image: thomd/hello-k8s:1.0
         ports:
         - containerPort: 8080
