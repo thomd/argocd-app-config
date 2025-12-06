@@ -16,4 +16,4 @@ spec:
       - name: myapp
         image: thomd/hello-k8s:1.0
         ports:
-        - containerPort: 8080
+        - containerPort: 5000
